@@ -6,7 +6,7 @@ Each file is a short writeup: challenge info, the flag, and how I found it.
 ## 🏆 Result
 
 > ### 🥇 1st Place — Individual (competed **solo**) — **4125 points**
-> Also **3rd Place Overall** on the team board as a **one-person team** (*wargaye* 🐕) — out-scoring full multi-member squads.
+> Also **3rd Place Overall** on the team board as a **one-person team** (*wargaye* 🐐) — out-scoring full multi-member squads.
 
 | Board | Placement | Score |
 |-------|-----------|------:|
